@@ -2,9 +2,11 @@
 
 The user is able to access the menu once a name is provided. Available pizzas can be added, removed, edited, quantity increased and inspected in the cart component. Once the order now button is clicked, the user is taken to the order details page
 which provides all the information regarding the order, displays a timer, total price, estimated delivery time and a button that can prioritize the order for an extra cost of 20% of the total.
+The user can search a specific order by the order ID provided when placing an order.
 
 
 **Learnt: React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS**
+
 **Built with: React**
 
 **Live link:**
