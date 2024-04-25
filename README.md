@@ -13,6 +13,8 @@ The user can search a specific order by the order ID provided when placing an or
 
 https://fast-react-pizza-as90.vercel.app/
 
+**To run locally: npm run dev**
+
 
 ![image](https://github.com/adrians90/fast-react-pizza/assets/128593202/1afb737a-8b99-49de-b50c-8e343cbeb304)
 
