@@ -5,7 +5,7 @@ which provides all the information regarding the order, displays a timer, total 
 The user can search a specific order by the order ID provided when placing an order.
 
 
-**Learnt: React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS**
+**Learnt: React Router data loading, Redux, Redux Toolkit, Tailwind CSS**
 
 **Built with: React**
 
